@@ -1,0 +1,8 @@
+.runtime/
+node_modules/
+data/db.json
+uploads/*
+!uploads/.gitkeep
+.env
+vibe_images/
+.tmp_frames/

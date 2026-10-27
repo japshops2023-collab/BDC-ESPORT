@@ -1,0 +1,13 @@
+{
+  "name": "arena-x-esports",
+  "version": "1.0.0",
+  "private": true,
+  "description": "เว็บไซต์สมาคมกีฬาอีสปอร์ต พร้อมระบบแอดมินแก้ไขเนื้อหาในเว็บ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
